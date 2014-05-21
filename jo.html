@@ -9,7 +9,7 @@
   </head>
 <body>
     
-  <canvas width=500 height=300></canvas>
+  <canvas width="500" height="300"></canvas>
   FPS: <span id="fps"></span>. Move with arrow keys.
     
   <div id="info">
@@ -48,28 +48,31 @@
         player.setImage( player.anim_default.next() )
         jaws.preventDefaultKeys(["up", "down", "left", "right", "space"]);
 
-	mySound = new buzz.sound( "spin", {
-	    formats: [ "mp3","wav" ]
-	});
+		mySound = new buzz.sound( "spin", {
+		    formats: [ "mp3","wav" ]
+		});
 
       }
 
       /* update() will get called each game tick with your specified FPS. Put game logic here. */
       this.update = function() {
         player.setImage( player.anim_default.next() )
-        if(jaws.pressed("left"))  { player.x -= speed; player.setImage( player.anim_left.next() ) }
+       /* if(jaws.pressed("left"))  { player.x -= speed; player.setImage( player.anim_left.next() ) }
         if(jaws.pressed("right")) { player.x += speed; player.setImage( player.anim_right.next() ) }
-       
+       */
 
         if(jaws.pressed("up"))    { 
-		player.y -= speed; player.setImage( player.anim_up.next() ) ;
-
-	     
-	    mySound.play();
-
-	}
+			player.y -= speed; player.setImage( player.anim_up.next() ) ;
+		    mySound.play();
+		}
         else { player.y += speed; player.setImage( player.anim_down.next() ); }
 
+		this.forceInsideCanvas(player);
+/*
+		if(player.y>280) {
+			dead();
+		}
+*/
         /*if(jaws.pressed("down"))  {*/ /* }*/
 
  		fps.innerHTML = jaws.game_loop.fps + ". player: " + player.x + "/" + player.y;
@@ -77,20 +80,44 @@
 
       /* Directly after each update draw() will be called. Put all your on-screen operations here. */
       this.draw = function() {
-        jaws.clear()       
-        jaws.log(player)
-        player.draw()
+        jaws.clear();       
+        jaws.log(player);
+        player.draw();
       }
     
       /* Force given item's x/y to stay within canvas borders */
-      function forceInsideCanvas(item) {
+      this.forceInsideCanvas=function(item) {
         if(item.x < 0)                  { item.x = 0  }
         if(item.right > jaws.width)     { item.x = jaws.width - item.width }
-        if(item.y < 0)                  { item.y = 0 }
-        if(item.bottom  > jaws.height)  { item.y = jaws.height - item.height }
+        if(item.y < 50)                  { item.y = 50 }
+        if(item.y+50 > jaws.height)  { 
+			jaws.switchGameState(joBirdIsDead);
+		}
+       
       }
     }
 
+    function joBirdIsDead() {
+      var hud;
+          /* Called once when a game state is activated. Use it for one-time setup code. */
+      this.setup = function() {
+			hud = new jaws.Text({text: "You are dead", x: 50, y: 10})
+      }
+
+      /* update() will get called each game tick with your specified FPS. Put game logic here. */
+      this.update = function() {
+    
+      }
+
+      /* Directly after each update draw() will be called. Put all your on-screen operations here. */
+      this.draw = function() {
+        jaws.clear();       
+        hud.draw();
+      }
+    
+      
+    }
+    
     
     jaws.onload = function() {
 
@@ -98,6 +125,10 @@
 
       jaws.start(joBird);
     }
+    
+    
+    
+    
   </script>
 
 </body>
