@@ -1,0 +1,106 @@
+
+<!DOCTYPE html> 
+<html>
+  <head>
+    <script src="jaws.js"></script>
+    <script src="buzz.js"></script>
+    <link type="text/css" rel="stylesheet" href="style.css" />
+    <title>JoBird</title>
+  </head>
+<body>
+    
+  <canvas width=500 height=300></canvas>
+  FPS: <span id="fps"></span>. Move with arrow keys.
+    
+  <div id="info">
+    <h1>Animations</h1>
+    Showing of a "complex" animation, all cut up from a spritesheet.
+    We also use {anchor: "center_bottom"} which means when we paint the sprite at 100/200, the feet will be placed there.
+  </div>
+
+  <h3>jaws log</h3>
+  <div id="jaws-log"></div>
+ 
+  <script>
+    /*
+    * A good practice in even a smalish game is to use "game states"
+    * It's easy in jaws. Here we use a constructor that will respond to setup/update/draw.
+    * We pass it into jaws.start() at the bottom to set things in motion.
+    */
+    function joBird() {
+      var player
+      var speed = 2
+      var mySound;
+      var fps = document.getElementById("fps")
+
+      /* Called once when a game state is activated. Use it for one-time setup code. */
+      this.setup = function() {
+
+        var anim = new jaws.Animation({sprite_sheet: "bird.png", frame_duration: 100, frame_size: [62,50] });
+
+        player = new jaws.Sprite({x:100, y:50, scale: 1, anchor: "bottom_center"})
+        player.anim_default = anim.slice(0,3)
+        player.anim_up = anim.slice(3,5)
+        player.anim_down = anim.slice(5,8)
+        player.anim_left = anim.slice(10,12)
+        player.anim_right = anim.slice(12,14)
+      
+        player.setImage( player.anim_default.next() )
+        jaws.preventDefaultKeys(["up", "down", "left", "right", "space"]);
+
+	mySound = new buzz.sound( "spin", {
+	    formats: [ "mp3","wav" ]
+	});
+
+      }
+
+      /* update() will get called each game tick with your specified FPS. Put game logic here. */
+      this.update = function() {
+        player.setImage( player.anim_default.next() )
+        if(jaws.pressed("left"))  { player.x -= speed; player.setImage( player.anim_left.next() ) }
+        if(jaws.pressed("right")) { player.x += speed; player.setImage( player.anim_right.next() ) }
+       
+
+        if(jaws.pressed("up"))    { 
+		player.y -= speed; player.setImage( player.anim_up.next() ) ;
+
+	     
+	    mySound.play();
+
+	}
+        else { player.y += speed; player.setImage( player.anim_down.next() ); }
+
+        /*if(jaws.pressed("down"))  {*/ /* }*/
+
+ 		fps.innerHTML = jaws.game_loop.fps + ". player: " + player.x + "/" + player.y;
+      }
+
+      /* Directly after each update draw() will be called. Put all your on-screen operations here. */
+      this.draw = function() {
+        jaws.clear()       
+        jaws.log(player)
+        player.draw()
+      }
+    
+      /* Force given item's x/y to stay within canvas borders */
+      function forceInsideCanvas(item) {
+        if(item.x < 0)                  { item.x = 0  }
+        if(item.right > jaws.width)     { item.x = jaws.width - item.width }
+        if(item.y < 0)                  { item.y = 0 }
+        if(item.bottom  > jaws.height)  { item.y = jaws.height - item.height }
+      }
+    }
+
+    
+    jaws.onload = function() {
+
+      jaws.assets.add("bird.png");
+
+      jaws.start(joBird);
+    }
+  </script>
+
+</body>
+</html>
+
+
