@@ -1,0 +1,692 @@
+BQCM  010414411000BK001289     411C1126         CHQ TOUSSAINT Simone                                             53.5
+BQCM  010414512100BK001289                      CHQ TOUSSAINT Simone                               53.5              
+BQCM  010414411000BK001296     411C1055         CHQ MOUSSY Francoise                                             1750
+BQCM  010414512100BK001296                      CHQ MOUSSY Francoise                               1750              
+BQCM  010414411000BK001297     411C1132         CHQ COTE Jean-Luc                                                  18
+BQCM  010414512100BK001297                      CHQ COTE Jean-Luc                                    18              
+BQCM  020414411000BK001299     411C1044         CHQ BERTHET Rene                                                   11
+BQCM  020414512100BK001299                      CHQ BERTHET Rene                                     11              
+BQCM  020414411000BK001300     411C0007         CHQ AKTAN Fatma                                                    18
+BQCM  020414512100BK001300                      CHQ AKTAN Fatma                                      18              
+CAI   020414411000BK001302     411C1090         LIQ OZEL Cenan                                                   8.25
+CAI   020414531000BK001302                      LIQ OZEL Cenan                                     8.25              
+BQCM  020414401000BK001303     401F0153         CHQ VALSOLEIL                                     27.35              
+BQCM  020414512100BK001303                      CHQ VALSOLEIL                                                   27.35
+CAI   020414401000BK001304     401F0194         LIQ BY MICRO                                         45              
+CAI   020414531000BK001304                      LIQ BY MICRO                                                       45
+CAI   280314401000BK001305     401F0077         LIQ BRICOMARCHE                                    51.9              
+CAI   280314531000BK001305                      LIQ BRICOMARCHE                                                  51.9
+BQCM  021213401000BK001306     401F0200         CHQ COMBET FORAGE                                  2500              
+BQCM  021213512100BK001306                      CHQ COMBET FORAGE                                                2500
+BQCM  271213401000BK001307     401F0200         CHQ COMBET FORAGE                                7761.5              
+BQCM  271213512100BK001307                      CHQ COMBET FORAGE                                              7761.5
+BQCM  170314401000BK001308     401F0236         CHQ ERDF                                        1404.11              
+BQCM  170314512100BK001308                      CHQ ERDF                                                      1404.11
+CAI   290314401000BK001310     401F0237         LIQ AROM'ANTIQUE                                     20              
+CAI   290314531000BK001310                      LIQ AROM'ANTIQUE                                                   20
+CAI   200314401000BK001312     401F0153         LIQ VALSOLEIL                                                   25.22
+CAI   200314531000BK001312                      LIQ VALSOLEIL                                     25.22              
+BQCM  030414411000BK001313     411C0530         CHQ POTIER Jacques                                               93.8
+BQCM  030414512100BK001313                      CHQ POTIER Jacques                                 93.8              
+BQCM  030414411000BK001314     411C0286         CHQ JEYMOND Valerie                                                30
+BQCM  030414512100BK001314                      CHQ JEYMOND Valerie                                  30              
+BQCM  030414411000BK001315     411C1134         CHQ BEYLS Maxime                                                 53.5
+BQCM  030414512100BK001315                      CHQ BEYLS Maxime                                   53.5              
+CAI   030414401000BK001316     401F0120         LIQ HYPER U                                           3              
+CAI   030414531000BK001316                      LIQ HYPER U                                                         3
+BQCM  270314401000BK001318     401F0090         CHQ CLAVEL                                          140              
+BQCM  270314512100BK001318                      CHQ CLAVEL                                                        140
+BQCM  010414401000BK001319     401F0168         PRE ORANGE BUSINESS SERVICES                     102.82              
+BQCM  010414512100BK001319                      PRE ORANGE BUSINESS SERVICES                                   102.82
+BQCM  030414411000BK001320     411C0103         CHQ CONVERT Francoise                                              60
+BQCM  030414512100BK001320                      CHQ CONVERT Francoise                                60              
+BQCM  050414411000BK001321     411C0006         PRE ABAD Marie-Laure                                             73.5
+BQCM  050414512100BK001321                      PRE ABAD Marie-Laure                               73.5              
+BQCM  050414411000BK001322     411C0793         PRE ASTIER Josie                                                   30
+BQCM  050414512100BK001322                      PRE ASTIER Josie                                     30              
+BQCM  100414411000BK001323     411C0009         PRE AROD Alexandra                                                 49
+BQCM  100414512100BK001323                      PRE AROD Alexandra                                   49              
+BQCM  100414411000BK001324     411C0019         PRE BLACHE Jeannine                                                30
+BQCM  100414512100BK001324                      PRE BLACHE Jeannine                                  30              
+BQCM  050414411000BK001325     411C0020         PRE BADEL Michel                                                   49
+BQCM  050414512100BK001325                      PRE BADEL Michel                                     49              
+BQCM  050414411000BK001326     411C0025         PRE BODIN Jean-Luc                                                 49
+BQCM  050414512100BK001326                      PRE BODIN Jean-Luc                                   49              
+BQCM  100414411000BK001327     411C0034         PRE BARON Michele                                                  30
+BQCM  100414512100BK001327                      PRE BARON Michele                                    30              
+BQCM  050414411000BK001328     411C0038         PRE BELMONTE Nathalie                                              30
+BQCM  050414512100BK001328                      PRE BELMONTE Nathalie                                30              
+BQCM  100414411000BK001329     411C0040         PRE BOISSONNET Christine                                           49
+BQCM  100414512100BK001329                      PRE BOISSONNET Christine                             49              
+BQCM  100414411000BK001331     411C0042         PRE BOUZON Gerald                                                  49
+BQCM  100414512100BK001331                      PRE BOUZON Gerald                                    49              
+BQCM  100414411000BK001332     411C0048         PRE BONNAY Anita                                                   30
+BQCM  100414512100BK001332                      PRE BONNAY Anita                                     30              
+BQCM  100414411000BK001333     411C0063         PRE BERGASSE Claude-Andree                                         30
+BQCM  100414512100BK001333                      PRE BERGASSE Claude-Andree                           30              
+BQCM  100414411000BK001334     411C0084         PRE TESTU Francoise                                                30
+BQCM  100414512100BK001334                      PRE TESTU Francoise                                  30              
+BQCM  100414411000BK001335     411C0093         PRE CONTIN Andrea                                                  30
+BQCM  100414512100BK001335                      PRE CONTIN Andrea                                    30              
+BQCM  100414411000BK001336     411C0094         PRE CHARVE Genevieve                                               49
+BQCM  100414512100BK001336                      PRE CHARVE Genevieve                                 49              
+BQCM  050414411000BK001337     411C0104         PRE CLOOTS Emmanuel                                                49
+BQCM  050414512100BK001337                      PRE CLOOTS Emmanuel                                  49              
+BQCM  100414411000BK001338     411C0106         PRE CHARRAS Francoise                                              30
+BQCM  100414512100BK001338                      PRE CHARRAS Francoise                                30              
+BQCM  050414411000BK001339     411C0109         PRE COURT Vaneissa                                                 30
+BQCM  050414512100BK001339                      PRE COURT Vaneissa                                   30              
+BQCM  100414411000BK001340     411C0111         PRE CONSILLE Paulette                                              30
+BQCM  100414512100BK001340                      PRE CONSILLE Paulette                                30              
+BQCM  100414411000BK001341     411C0113         PRE CHARBONNEL-RODARY                                              49
+BQCM  100414512100BK001341                      PRE CHARBONNEL-RODARY                                49              
+BQCM  050414411000BK001342     411C0114         PRE COMBE Agnes                                                    30
+BQCM  050414512100BK001342                      PRE COMBE Agnes                                      30              
+BQCM  050414411000BK001343     411C0129         PRE DIDIER Francois                                                30
+BQCM  050414512100BK001343                      PRE DIDIER Francois                                  30              
+BQCM  100414411000BK001344     411C0136         PRE DEWALLY Eric                                                   49
+BQCM  100414512100BK001344                      PRE DEWALLY Eric                                     49              
+BQCM  100414411000BK001345     411C0144         PRE DE CILLIS Jerome                                               49
+BQCM  100414512100BK001345                      PRE DE CILLIS Jerome                                 49              
+BQCM  050414411000BK001346     411C0152         PRE DURET Ginette                                                  30
+BQCM  050414512100BK001346                      PRE DURET Ginette                                    30              
+BQCM  050414411000BK001347     411C0154         PRE DUMAILLET Christophe                                           49
+BQCM  050414512100BK001347                      PRE DUMAILLET Christophe                             49              
+BQCM  050414411000BK001348     411C0159         PRE EPAULARD Annick                                                30
+BQCM  050414512100BK001348                      PRE EPAULARD Annick                                  30              
+BQCM  050414411000BK001349     411C0160         PRE EUVRARD                                                        30
+BQCM  050414512100BK001349                      PRE EUVRARD                                          30              
+BQCM  050414411000BK001350     411C0167         PRE ERAUD Marie-Catherine/CHATELIER                                30
+BQCM  050414512100BK001350                      PRE ERAUD Marie-Catherine/CHATELIER                  30              
+BQCM  100414411000BK001351     411C0191         PRE FLEURY Didier                                                  49
+BQCM  100414512100BK001351                      PRE FLEURY Didier                                    49              
+BQCM  050414411000BK001352     411C0199         PRE FORQUE Martine                                                 30
+BQCM  050414512100BK001352                      PRE FORQUE Martine                                   30              
+BQCM  050414411000BK001353     411C0206         PRE FRADCOURT / MINA                                               30
+BQCM  050414512100BK001353                      PRE FRADCOURT / MINA                                 30              
+BQCM  100414411000BK001354     411C0212         PRE GAGNEUR Renaud                                                 49
+BQCM  100414512100BK001354                      PRE GAGNEUR Renaud                                   49              
+BQCM  050414411000BK001355     411C0214         PRE GRANGER/QUEVEDO                                                30
+BQCM  050414512100BK001355                      PRE GRANGER/QUEVEDO                                  30              
+BQCM  100414411000BK001356     411C0215         PRE GIRARD Marylene                                                30
+BQCM  100414512100BK001356                      PRE GIRARD Marylene                                  30              
+BQCM  050414411000BK001357     411C0221         PRE GAUVAIN Therese                                                24
+BQCM  050414512100BK001357                      PRE GAUVAIN Therese                                  24              
+BQCM  050414411000BK001358     411C0222         PRE GOHIER Nicolas                                                 30
+BQCM  050414512100BK001358                      PRE GOHIER Nicolas                                   30              
+BQCM  100414411000BK001359     411C0231         PRE FORTIER-BEAULIEU Marielle                                      30
+BQCM  100414512100BK001359                      PRE FORTIER-BEAULIEU Marielle                        30              
+BQCM  100414411000BK001360     411C0233         PRE GIROFLET Christiane                                            30
+BQCM  100414512100BK001360                      PRE GIROFLET Christiane                              30              
+BQCM  050414411000BK001361     411C0234         PRE GRANJON Laurent                                                30
+BQCM  050414512100BK001361                      PRE GRANJON Laurent                                  30              
+BQCM  100414411000BK001362     411C0263         PRE HENRI Denise                                                   49
+BQCM  100414512100BK001362                      PRE HENRI Denise                                     49              
+BQCM  100414411000BK001363     411C0271         PRE HOUSOUNGAN Stephanie                                           49
+BQCM  100414512100BK001363                      PRE HOUSOUNGAN Stephanie                             49              
+BQCM  050414411000BK001364     411C0273         PRE HOLGADO Celine/DUFLOS Pierre                                   30
+BQCM  050414512100BK001364                      PRE HOLGADO Celine/DUFLOS Pierre                     30              
+BQCM  100414411000BK001365     411C0279         PRE ILTIS Chantal                                                  30
+BQCM  100414512100BK001365                      PRE ILTIS Chantal                                    30              
+BQCM  100414411000BK001366     411C0308         PRE JOLLIOT Anita                                                24.5
+BQCM  100414512100BK001366                      PRE JOLLIOT Anita                                  24.5              
+BQCM  100414411000BK001367     411C0316         PRE JUBAN Nathalie                                               24.5
+BQCM  100414512100BK001367                      PRE JUBAN Nathalie                                 24.5              
+BQCM  050414411000BK001368     411C0322         PRE LARDEUX Sylvaine                                               49
+BQCM  050414512100BK001368                      PRE LARDEUX Sylvaine                                 49              
+BQCM  050414411000BK001369     411C0327         PRE LAFARE-BLANCHARD Genevieve                                     30
+BQCM  050414512100BK001369                      PRE LAFARE-BLANCHARD Genevieve                       30              
+BQCM  100414411000BK001370     411C0333         PRE COMTE-LAVAL                                                    30
+BQCM  100414512100BK001370                      PRE COMTE-LAVAL                                      30              
+BQCM  100414411000BK001371     411C0343         PRE LIESSE Andree                                                  30
+BQCM  100414512100BK001371                      PRE LIESSE Andree                                    30              
+BQCM  050414411000BK001372     411C0346         PRE LE PERRON Remy                                                 30
+BQCM  050414512100BK001372                      PRE LE PERRON Remy                                   30              
+BQCM  100414411000BK001373     411C0353         PRE LHUILLIER Laurent/PIERRISNARD C                                30
+BQCM  100414512100BK001373                      PRE LHUILLIER Laurent/PIERRISNARD C                  30              
+BQCM  100414411000BK001375     411C0370         PRE MATTHYS Cathy                                                  30
+BQCM  100414512100BK001375                      PRE MATTHYS Cathy                                    30              
+BQCM  050414411000BK001376     411C0375         PRE MAZZIOTTA Therese                                            24.5
+BQCM  050414512100BK001376                      PRE MAZZIOTTA Therese                              24.5              
+BQCM  050414411000BK001378     411C0407         PRE MOUSSIER Nicole                                                49
+BQCM  050414512100BK001378                      PRE MOUSSIER Nicole                                  49              
+BQCM  100414411000BK001379     411C0414         PRE MODUGNO Evelyne                                                49
+BQCM  100414512100BK001379                      PRE MODUGNO Evelyne                                  49              
+BQCM  100414411000BK001380     411C0421         PRE MAMET Anne                                                     30
+BQCM  100414512100BK001380                      PRE MAMET Anne                                       30              
+BQCM  100414411000BK001381     411C0431         PRE MATHIEU Pascal                                                 49
+BQCM  100414512100BK001381                      PRE MATHIEU Pascal                                   49              
+BQCM  100414411000BK001383     411C0502         PRE POULAT/VILLARD Francoise                                       30
+BQCM  100414512100BK001383                      PRE POULAT/VILLARD Francoise                         30              
+BQCM  100414411000BK001384     411C0504         PRE POIRIEUX Isabelle                                              30
+BQCM  100414512100BK001384                      PRE POIRIEUX Isabelle                                30              
+BQCM  050414411000BK001385     411C0826         PRE BONEL WERGUET Roland                                           49
+BQCM  050414512100BK001385                      PRE BONEL WERGUET Roland                             49              
+BQCM  050414411000BK001386     411C0816         PRE BOUZON Jocelyne                                                30
+BQCM  050414512100BK001386                      PRE BOUZON Jocelyne                                  30              
+BQCM  050414411000BK001388     411C0862         PRE CARA Paul                                                      30
+BQCM  050414512100BK001388                      PRE CARA Paul                                        30              
+BQCM  050414411000BK001389     411C0844         PRE CLARY Adeline                                                  49
+BQCM  050414512100BK001389                      PRE CLARY Adeline                                    49              
+BQCM  050414411000BK001391     411C0575         PRE RABREAUD Mtherese/GAUTRON                                      49
+BQCM  050414512100BK001391                      PRE RABREAUD Mtherese/GAUTRON                        49              
+BQCM  050414411000BK001392     411C0906         PRE LOMBART Anne Catherine                                         49
+BQCM  050414512100BK001392                      PRE LOMBART Anne Catherine                           49              
+BQCM  050414411000BK001394     411C0823         PRE BARDOLPH-REMON Josephine                                       49
+BQCM  050414512100BK001394                      PRE BARDOLPH-REMON Josephine                         49              
+BQCM  050414411000BK001396     411C0610         PRE SAUVAJON Agnes                                                 49
+BQCM  050414512100BK001396                      PRE SAUVAJON Agnes                                   49              
+BQCM  050414411000BK001397     411C0588         PRE SCARABELLO Fanny                                               49
+BQCM  050414512100BK001397                      PRE SCARABELLO Fanny                                 49              
+BQCM  050414411000BK001398     411C0613         PRE SCHMITT-PHILIBERT                                              49
+BQCM  050414512100BK001398                      PRE SCHMITT-PHILIBERT                                49              
+BQCM  050414411000BK001399     411C0620         PRE SERME Claudine                                                 30
+BQCM  050414512100BK001399                      PRE SERME Claudine                                   30              
+BQCM  050414411000BK001400     411C0640         PRE TARDY Arlette                                                  30
+BQCM  050414512100BK001400                      PRE TARDY Arlette                                    30              
+BQCM  050414411000BK001401     411C0646         PRE TICHKOWSKY Rachel                                              30
+BQCM  050414512100BK001401                      PRE TICHKOWSKY Rachel                                30              
+BQCM  050414411000BK001402     411C0665         PRE TINGRY Fabienne- DORELON Gilles                                49
+BQCM  050414512100BK001402                      PRE TINGRY Fabienne- DORELON Gilles                  49              
+BQCM  050414411000BK001403     411C0663         PRE TUDOT Sophie                                                   30
+BQCM  050414512100BK001403                      PRE TUDOT Sophie                                     30              
+BQCM  050414411000BK001404     411C0725         PRE FRAYSSE  Anne-Marie                                            30
+BQCM  050414512100BK001404                      PRE FRAYSSE  Anne-Marie                              30              
+BQCM  100414411000BK001406     411C0801         PRE BEGUIN Germaine                                                30
+BQCM  100414512100BK001406                      PRE BEGUIN Germaine                                  30              
+BQCM  100414411000BK001407     411C0538         PRE PATARD / MICHON Justine                                        49
+BQCM  100414512100BK001407                      PRE PATARD / MICHON Justine                          49              
+BQCM  100414411000BK001408     411C0537         PRE PELESE Sylvain                                                 49
+BQCM  100414512100BK001408                      PRE PELESE Sylvain                                   49              
+BQCM  100414411000BK001409     411C0511         PRE PIGNAT Jean-Luc                                              73.5
+BQCM  100414512100BK001409                      PRE PIGNAT Jean-Luc                                73.5              
+BQCM  100414411000BK001410     411C0513         PRE PRIEUR Monique                                                 30
+BQCM  100414512100BK001410                      PRE PRIEUR Monique                                   30              
+BQCM  100414411000BK001411     411C0543         PRE QUEMENEUR AICHA                                                30
+BQCM  100414512100BK001411                      PRE QUEMENEUR AICHA                                  30              
+BQCM  100414411000BK001412     411C0567         PRE RAVACHOL/BONNARDEL                                             49
+BQCM  100414512100BK001412                      PRE RAVACHOL/BONNARDEL                               49              
+BQCM  100414411000BK001413     411C0572         PRE ROYBON-COGNE Michel                                            49
+BQCM  100414512100BK001413                      PRE ROYBON-COGNE Michel                              49              
+BQCM  100414411000BK001414     411C0590         PRE SABADIE Regis                                                  49
+BQCM  100414512100BK001414                      PRE SABADIE Regis                                    49              
+BQCM  100414411000BK001415     411C0591         PRE SAGET Gisele                                                   30
+BQCM  100414512100BK001415                      PRE SAGET Gisele                                     30              
+BQCM  100414411000BK001416     411C0623         PRE SOLETCHNICK Lydie                                              30
+BQCM  100414512100BK001416                      PRE SOLETCHNICK Lydie                                30              
+BQCM  100414411000BK001417     411C0659         PRE TERRAS Patrice                                                 30
+BQCM  100414512100BK001417                      PRE TERRAS Patrice                                   30              
+BQCM  100414411000BK001418     411C0721         PRE VACHER Christiane                                              30
+BQCM  100414512100BK001418                      PRE VACHER Christiane                                30              
+BQCM  100414411000BK001419     411C0691         PRE VALLET Baptiste                                                30
+BQCM  100414512100BK001419                      PRE VALLET Baptiste                                  30              
+BQCM  100414411000BK001420     411C0732         PRE VIGNON Claudine                                                30
+BQCM  100414512100BK001420                      PRE VIGNON Claudine                                  30              
+BQCM  060414411000BK001423     411C0235         CHQ COTLEUR Evelyne                                               280
+BQCM  060414512100BK001423                      CHQ COTLEUR Evelyne                                 280              
+BQCM  060414411000BK001424     411C1137         CHQ GINOT Caroline                                                 15
+BQCM  060414512100BK001424                      CHQ GINOT Caroline                                   15              
+BQCM  080414411000BK001425     411C0088         CHQ CURREL Yvette                                                  30
+BQCM  080414512100BK001425                      CHQ CURREL Yvette                                    30              
+BQCM  080414411000BK001426     411C0262         CHQ HABRARD Laurent                                                30
+BQCM  080414512100BK001426                      CHQ HABRARD Laurent                                  30              
+BQCM  080414411000BK001427     411C0130         CHQ DEROBERT Jean-Marc                                             18
+BQCM  080414512100BK001427                      CHQ DEROBERT Jean-Marc                               18              
+BQCM  080414411000BK001428     411C0802         CHQ BLECIC Marie                                                   79
+BQCM  080414512100BK001428                      CHQ BLECIC Marie                                     79              
+BQCM  080414411000BK001429     411C0585         CHQ RIGUET Bernard                                                 30
+BQCM  080414512100BK001429                      CHQ RIGUET Bernard                                   30              
+BQCM  080414411000BK001430     411C0012         CHQ ARBOGAST  Marie Anne                                           30
+BQCM  080414512100BK001430                      CHQ ARBOGAST  Marie Anne                             30              
+BQCM  080414411000BK001431     411C0438         CHQ MONTET Maurice                                                 30
+BQCM  080414512100BK001431                      CHQ MONTET Maurice                                   30              
+BQCM  080414411000BK001432     411C0791         CHQ ARNOUX Sylvain                                                 30
+BQCM  080414512100BK001432                      CHQ ARNOUX Sylvain                                   30              
+BQCM  080414411000BK001433     411C0044         CHQ BLOUIN Michel                                                  18
+BQCM  080414512100BK001433                      CHQ BLOUIN Michel                                    18              
+BQCM  080414411000BK001434     411C0216         CHQ GAMBIER Veronique                                              43
+BQCM  080414512100BK001434                      CHQ GAMBIER Veronique                                43              
+BQCM  080414411000BK001435     411C1140         CHQ DESURMONT Laurence                                             46
+BQCM  080414512100BK001435                      CHQ DESURMONT Laurence                               46              
+BQCM  080414411000BK001436     411C0153         CHQ DETREZ Genevieve                                               63
+BQCM  080414512100BK001436                      CHQ DETREZ Genevieve                                 63              
+BQCM  040414411000BK001437     411C0551         CHQ REYSSET Jacques                                              8.37
+BQCM  040414512100BK001437                      CHQ REYSSET Jacques                                8.37              
+BQCM  040414411000BK001438     411C1037         CHQ RIVOIRE Joseph                                              13.19
+BQCM  040414512100BK001438                      CHQ RIVOIRE Joseph                                13.19              
+BQCM  040414411000BK001439     411C0050         CHQ BRUNY Annie                                                     9
+BQCM  040414512100BK001439                      CHQ BRUNY Annie                                       9              
+BQCM  040414411000BK001440     411C0026         CHQ BOUCHARD Denis                                              13.94
+BQCM  040414512100BK001440                      CHQ BOUCHARD Denis                                13.94              
+BQCM  040414411000BK001441     411C0033         CHQ BRUNET Philippe                                                17
+BQCM  040414512100BK001441                      CHQ BRUNET Philippe                                  17              
+BQCM  040414411000BK001442     411C0359         CHQ LEONCINI Jean-Pierre                                         8.94
+BQCM  040414512100BK001442                      CHQ LEONCINI Jean-Pierre                           8.94              
+BQCM  040414411000BK001443     411C0983         CHQ PELLETREAU Catherine                                         5.12
+BQCM  040414512100BK001443                      CHQ PELLETREAU Catherine                           5.12              
+BQCM  040414411000BK001444     411C0110         CHQ CATTARIN-BORNE Graziella                                    10.84
+BQCM  040414512100BK001444                      CHQ CATTARIN-BORNE Graziella                      10.84              
+BQCM  060414411000BK001445     411C0994         CHQ TRESSOL Frederic                                            24.28
+BQCM  060414512100BK001445                      CHQ TRESSOL Frederic                              24.28              
+CAI   060414411000BK001446     411C1115         LIQ CLIENTS MARCHE                                              103.2
+CAI   060414531000BK001446                      LIQ CLIENTS MARCHE                                103.2              
+CAI   060414411000BK001447     411C1115         LIQ CLIENTS MARCHE                                                 20
+CAI   060414531000BK001447                      LIQ CLIENTS MARCHE                                   20              
+BQCM  080414411000BK001448     411C0957         CHQ BONTRON Guillaume                                              49
+BQCM  080414512100BK001448                      CHQ BONTRON Guillaume                                49              
+BQCM  080414411000BK001449     411C0720         CHQ VERILLAUD Beatrix                                              60
+BQCM  080414512100BK001449                      CHQ VERILLAUD Beatrix                                60              
+BQCM  080414411000BK001450     411C0756         CHQ WATRIN Agnes                                                   30
+BQCM  080414512100BK001450                      CHQ WATRIN Agnes                                     30              
+BQCM  080414411000BK001451     411C0783         CHQ ACHARD Carole                                                 165
+BQCM  080414512100BK001451                      CHQ ACHARD Carole                                   165              
+BQCM  080414411000BK001452     411C0087         CHQ CLAVEAU Christophe                                             30
+BQCM  080414512100BK001452                      CHQ CLAVEAU Christophe                               30              
+BQCM  080414411000BK001453     411C1082         CHQ BELLIER Cedric/LEVRAT Sylvie                                   49
+BQCM  080414512100BK001453                      CHQ BELLIER Cedric/LEVRAT Sylvie                     49              
+BQCM  080414411000BK001454     411C0666         CHQ TELLERI Santa                                                  49
+BQCM  080414512100BK001454                      CHQ TELLERI Santa                                    49              
+BQCM  080414411000BK001455     411C0519         CHQ PAQUIEN Chantal                                                49
+BQCM  080414512100BK001455                      CHQ PAQUIEN Chantal                                  49              
+BQCM  090414411000BK001457     411C0060         CHQ BONNET Marie Do                                                24
+BQCM  090414512100BK001457                      CHQ BONNET Marie Do                                  24              
+BQCM  090414411000BK001458     411C0325         CHQ LAIR Jeanine                                                   30
+BQCM  090414512100BK001458                      CHQ LAIR Jeanine                                     30              
+BQCM  090414411000BK001459     411C0071         CHQ BRALANT Rachel                                                 78
+BQCM  090414512100BK001459                      CHQ BRALANT Rachel                                   78              
+BQCM  090414411000BK001460     411C0425         CHQ MURARD Odile                                                   98
+BQCM  090414512100BK001460                      CHQ MURARD Odile                                     98              
+BQCM  090414411000BK001461     411C1126         CHQ TOUSSAINT Simone                                              450
+BQCM  090414512100BK001461                      CHQ TOUSSAINT Simone                                450              
+BQCM  050414411000BK001462     411C1142         CHQ VERSAVAUD CALLIERE Sophie                                      25
+BQCM  050414512100BK001462                      CHQ VERSAVAUD CALLIERE Sophie                        25              
+BQCM  050414411000BK001463     411C1143         CHQ SACHOT Christian-RAVETTO Stepha                                25
+BQCM  050414512100BK001463                      CHQ SACHOT Christian-RAVETTO Stepha                  25              
+BQCM  250314401000BK001465     401F0238         CHQ NATHAN                                         43.6              
+BQCM  250314512100BK001465                      CHQ NATHAN                                                       43.6
+BQCM  240314401000BK001466     401F0072         CHQ BIAU GERME                                       80              
+BQCM  240314512100BK001466                      CHQ BIAU GERME                                                     80
+CAI   090414411000BK001469     411C0206         LIQ FRADCOURT / MINA                                               18
+CAI   090414531000BK001469                      LIQ FRADCOURT / MINA                                 18              
+BQCM  090414411000BK001470     411C0390         CHQ CHOSSON Isabelle                                             47.2
+BQCM  090414512100BK001470                      CHQ CHOSSON Isabelle                               47.2              
+BQCM  090414411000BK001471     411C0948         CHQ GUILLOT Philippe                                               40
+BQCM  090414512100BK001471                      CHQ GUILLOT Philippe                                 40              
+CAI   100414411000BK001472     411C0007         LIQ AKTAN Fatma                                                    18
+CAI   100414531000BK001472                      LIQ AKTAN Fatma                                      18              
+CAI   040414401000BK001473     401F0239         LIQ FROMAGERIE GILIBERT                              14              
+CAI   040414531000BK001473                      LIQ FROMAGERIE GILIBERT                                            14
+CAI   100414401000BK001474     401F0153         LIQ VALSOLEIL                                       7.2              
+CAI   100414531000BK001474                      LIQ VALSOLEIL                                                     7.2
+BQCM  080414401000BK001475     401F0241         PRE RAVEL PIECES AUTO                               630              
+BQCM  080414512100BK001475                      PRE RAVEL PIECES AUTO                                             630
+BQCM  080414401000BK001476     401F0219         CHQ LOXAM                                        130.56              
+BQCM  080414512100BK001476                      CHQ LOXAM                                                      130.56
+BQCM  100414401000BK001477     401F0153         CHQ VALSOLEIL                                    162.14              
+BQCM  100414512100BK001477                      CHQ VALSOLEIL                                                  162.14
+BQCM  100414411000BK001478     411C0395         CHQ MICHELET Sylvie                                                49
+BQCM  100414512100BK001478                      CHQ MICHELET Sylvie                                  49              
+BQCM  100414411000BK001479     411C0395         CHQ MICHELET Sylvie                                                49
+BQCM  100414512100BK001479                      CHQ MICHELET Sylvie                                  49              
+BQCM  100414401000BK001480     401F0229         CHQ COMITE LOISIRS ET SPORTS                         20              
+BQCM  100414512100BK001480                      CHQ COMITE LOISIRS ET SPORTS                                       20
+BQCM  100414401000BK001481     401F0096         PRE CTA VOSSIER                                      75              
+BQCM  100414512100BK001481                      PRE CTA VOSSIER                                                    75
+CAI   100414411000BK001484     411C0461         LIQ OURCIVAL Isabelle                                              18
+CAI   100414531000BK001484                      LIQ OURCIVAL Isabelle                                18              
+BQCM  100414411000BK001485     411C0097         CHQ CHALAMET Maryse                                                30
+BQCM  100414512100BK001485                      CHQ CHALAMET Maryse                                  30              
+BQCM  100414411000BK001486     411C0089         CHQ COTTE Laurie                                                   30
+BQCM  100414512100BK001486                      CHQ COTTE Laurie                                     30              
+BQCM  100414411000BK001487     411C0306         CHQ JIMENEZ Dolores                                                30
+BQCM  100414512100BK001487                      CHQ JIMENEZ Dolores                                  30              
+BQCM  100414411000BK001488     411C0692         CHQ VEBER Anne                                                     30
+BQCM  100414512100BK001488                      CHQ VEBER Anne                                       30              
+BQCM  100414411000BK001489     411C0296         CHQ JUHASZ Isabelle                                                30
+BQCM  100414512100BK001489                      CHQ JUHASZ Isabelle                                  30              
+BQCM  100414411000BK001490     411C0236         CHQ GUIRIMAND Marie-Odile                                          30
+BQCM  100414512100BK001490                      CHQ GUIRIMAND Marie-Odile                            30              
+BQCM  100414411000BK001491     411C0290         CHQ JOUITTEAU Xavier/Martine                                       18
+BQCM  100414512100BK001491                      CHQ JOUITTEAU Xavier/Martine                         18              
+CAI   100414411000BK001493     411C0230         LIQ GRAPOTTE Germaine                                              18
+CAI   100414531000BK001493                      LIQ GRAPOTTE Germaine                                18              
+BQCM  100414411000BK001494     411C1002         CHQ VOSSIER Marie-Antoinette                                       18
+BQCM  100414512100BK001494                      CHQ VOSSIER Marie-Antoinette                         18              
+BQCM  100414411000BK001495     411C0375         CHQ MAZZIOTTA Therese                                              18
+BQCM  100414512100BK001495                      CHQ MAZZIOTTA Therese                                18              
+BQCM  100414411000BK001496     411C1151         CHQ CORNU Jean-Marc                                                18
+BQCM  100414512100BK001496                      CHQ CORNU Jean-Marc                                  18              
+BQCM  100414411000BK001497     411C1152         CHQ DE TONNAC Manon                                                18
+BQCM  100414512100BK001497                      CHQ DE TONNAC Manon                                  18              
+BQCM  020414411000BK001498     411C0732         VIR VIGNON Claudine                                                15
+BQCM  020414512100BK001498                      VIR VIGNON Claudine                                  15              
+BQCM  030414411000BK001499     411C0654         VIR THOUMELIN Francoise                                            49
+BQCM  030414512100BK001499                      VIR THOUMELIN Francoise                              49              
+BQCM  020414401000BK001501     401F0212         PRE SFAM                                             13              
+BQCM  020414512100BK001501                      PRE SFAM                                                           13
+BQCM  070414401000BK001502     616000           PRE MAIF                                         496.16              
+BQCM  070414512100BK001502                      PRE MAIF                                                       496.16
+BQCM  070414401000BK001503     401F0089         PRE CIEL                                          57.49              
+BQCM  070414512100BK001503                      PRE CIEL                                                        57.49
+BQCM  140414411000BK001505     411C0815         CHQ BOUVET Andree                                                  49
+BQCM  140414512100BK001505                      CHQ BOUVET Andree                                    49              
+BQCM  140414411000BK001506     411C0055         CHQ BOREL Joelle                                                   30
+BQCM  140414512100BK001506                      CHQ BOREL Joelle                                     30              
+BQCM  140414411000BK001507     411C0024         CHQ BONZINI Daniel                                                 49
+BQCM  140414512100BK001507                      CHQ BONZINI Daniel                                   49              
+BQCM  140414411000BK001508     411C0119         CHQ DAUDIN Agnes                                                  6.9
+BQCM  140414512100BK001508                      CHQ DAUDIN Agnes                                    6.9              
+BQCM  140414411000BK001509     411C0151         CHQ DUPRE LA TOUR Remi                                             98
+BQCM  140414512100BK001509                      CHQ DUPRE LA TOUR Remi                               98              
+BQCM  140414411000BK001510     411C0072         CHQ BUFFAT Martine                                                 60
+BQCM  140414512100BK001510                      CHQ BUFFAT Martine                                   60              
+BQCM  140414411000BK001511     411C0564         CHQ REYNAUD Dominique-AROD Francois                                30
+BQCM  140414512100BK001511                      CHQ REYNAUD Dominique-AROD Francois                  30              
+BQCM  070414401000BK001514     401F0133         VIR LOCAMUC PARTEO                                172.8              
+BQCM  070414512100BK001514                      VIR LOCAMUC PARTEO                                              172.8
+BQCM  070414401000BK001515     401F0244         VIR FOURNETON Ets                                    80              
+BQCM  070414512100BK001515                      VIR FOURNETON Ets                                                  80
+BQCM  020414401000BK001516     401F0075         CHQ BOULANGERIE                                    10.8              
+BQCM  020414512100BK001516                      CHQ BOULANGERIE                                                  10.8
+BQCM  020414401000BK001517     401F0137         CHQ PEILLET                                        1500              
+BQCM  020414512100BK001517                      CHQ PEILLET                                                      1500
+BQCM  040414401000BK001518     401F0234         VIR LEVESQUE Clemence                              55.2              
+BQCM  040414512100BK001518                      VIR LEVESQUE Clemence                                            55.2
+BQCM  040414401000BK001519     401F0170         VIR GAUVAIN Therese                               44.16              
+BQCM  040414512100BK001519                      VIR GAUVAIN Therese                                             44.16
+CAI   140414411000BK001520     411C0724         LIQ VERSMEE MOELLO Pascale                                         30
+CAI   140414531000BK001520                      LIQ VERSMEE MOELLO Pascale                           30              
+BQCM  040414401000BK001521     401F0153         VIR VALSOLEIL                                     82.37              
+BQCM  040414512100BK001521                      VIR VALSOLEIL                                                   82.37
+BQCM  070414401000BK001522     401F0226         PRE WOLTERS KLUWER                                33.24              
+BQCM  070414512100BK001522                      PRE WOLTERS KLUWER                                              33.24
+BQCM  040414411000BK001523     411C0863         PRE CALLIERE Cyrille                                               49
+BQCM  040414512100BK001523                      PRE CALLIERE Cyrille                                 49              
+CAI   140414401000BK001524     401F0106         LIQ ENTREPOT DU BRICOLAGE                          48.8              
+CAI   140414531000BK001524                      LIQ ENTREPOT DU BRICOLAGE                                        48.8
+BQCM  140414401000BK001525     401F0124         VIR K INDUSTRIES                                  436.4              
+BQCM  140414512100BK001525                      VIR K INDUSTRIES                                                436.4
+BQCM  240314401000BK001526     401F0245         CHQ EUROBOISSONS                                  81.71              
+BQCM  240314512100BK001526                      CHQ EUROBOISSONS                                                81.71
+BQCM  140414411000BK001527     411C0350         CHQ LEBASTARD Maryse                                               30
+BQCM  140414512100BK001527                      CHQ LEBASTARD Maryse                                 30              
+BQCM  140414411000BK001528     411C0796         CHQ ARGUEL Veronique                                               49
+BQCM  140414512100BK001528                      CHQ ARGUEL Veronique                                 49              
+BQCM  140414411000BK001529     411C0229         CHQ GENTIL Chantal                                                 49
+BQCM  140414512100BK001529                      CHQ GENTIL Chantal                                   49              
+BQCM  140414411000BK001530     411C0084         CHQ TESTU Francoise                                                18
+BQCM  140414512100BK001530                      CHQ TESTU Francoise                                  18              
+BQCM  140414411000BK001531     411C0049         CHQ BRUNSVICK Chantal                                              49
+BQCM  140414512100BK001531                      CHQ BRUNSVICK Chantal                                49              
+BQCM  140414411000BK001532     411C0241         CHQ GREGOIRE Herve                                                 30
+BQCM  140414512100BK001532                      CHQ GREGOIRE Herve                                   30              
+BQCM  140414411000BK001533     411C0322         CHQ LARDEUX Sylvaine                                               18
+BQCM  140414512100BK001533                      CHQ LARDEUX Sylvaine                                 18              
+BQCM  140414411000BK001534     411C0383         CHQ MATHON/PLANCON                                                 30
+BQCM  140414512100BK001534                      CHQ MATHON/PLANCON                                   30              
+BQCM  140414401000BK001535     401F0123         VIR JACO'PAIN                                     84.85              
+BQCM  140414512100BK001535                      VIR JACO'PAIN                                                   84.85
+BQCM  140414401000BK001536     401F0137         VIR PEILLET                                       43.92              
+BQCM  140414512100BK001536                      VIR PEILLET                                                     43.92
+BQCM  140414401000BK001537     401F0145         VIR SCIERIE DE LA VALLEE DU DOUX                1320.84              
+BQCM  140414512100BK001537                      VIR SCIERIE DE LA VALLEE DU DOUX                              1320.84
+BQCM  140414401000BK001538     401F0108         VIR ESPACE PAPETERIE                             142.88              
+BQCM  140414512100BK001538                      VIR ESPACE PAPETERIE                                           142.88
+BQCM  140414401000BK001539     401F0074         VIR BONNET SAS                                  1715.78              
+BQCM  140414512100BK001539                      VIR BONNET SAS                                                1715.78
+BQCM  140414401000BK001540     401F0130         VIR NEGOMETAL                                   1961.24              
+BQCM  140414512100BK001540                      VIR NEGOMETAL                                                 1961.24
+BQCM  140414401000BK001541     401F0162         VIR ATM CONSULTING                                  600              
+BQCM  140414512100BK001541                      VIR ATM CONSULTING                                                600
+BQCM  140414401000BK001543     401F0180         VIR REGION RHONE ALPES                              381              
+BQCM  140414512100BK001543                      VIR REGION RHONE ALPES                                            381
+CAI   040414401000BK001544     401F0232         LIQ CARBURANT                                        15              
+CAI   040414531000BK001544                      LIQ CARBURANT                                                      15
+BQCM  140414401000BK001545     401F0088         VIR CHIRON PONSON                                630.38              
+BQCM  140414512100BK001545                      VIR CHIRON PONSON                                              630.38
+BQCM  140414401000BK001546     401F0153         VIR VALSOLEIL                                     41.58              
+BQCM  140414512100BK001546                      VIR VALSOLEIL                                                   41.58
+BQCM  110414401000BK001547     401F0246         CB EURO PNEUS                                       160              
+BQCM  110414512100BK001547                      CB EURO PNEUS                                                     160
+BQCM  110414401000BK001548     401F0106         CHQ ENTREPOT DU BRICOLAGE                        306.24              
+BQCM  110414512100BK001548                      CHQ ENTREPOT DU BRICOLAGE                                      306.24
+BQCM  080414401000BK001549     401F0084         CHQ CENTRE LECLERC                               100.04              
+BQCM  080414512100BK001549                      CHQ CENTRE LECLERC                                             100.04
+BQCM  240314401000BK001550     401F0084         CHQ CENTRE LECLERC                               123.76              
+BQCM  240314512100BK001550                      CHQ CENTRE LECLERC                                             123.76
+CAI   140414411000BK001551     411C0126         LIQ DELPECH Raphael                                                60
+CAI   140414531000BK001551                      LIQ DELPECH Raphael                                  60              
+BQCM  140414411000BK001552     411C0171         CHQ ERARD Michele                                                  24
+BQCM  140414512100BK001552                      CHQ ERARD Michele                                    24              
+BQCM  030414401000BK001553     401F0247         CHQ CASTAPHIORE                                     135              
+BQCM  030414512100BK001553                      CHQ CASTAPHIORE                                                   135
+BQCM  150414401000BK001554     401F0247         VIR CASTAPHIORE                                     450              
+BQCM  150414512100BK001554                      VIR CASTAPHIORE                                                   450
+CAI   260214411000BK001555     411C0076         LIQ HIOUAD Nourredine                                              18
+CAI   260214531000BK001555                      LIQ HIOUAD Nourredine                                18              
+CAI   210314411000BK001556     411C0232         LIQ GREAUME Janine                                                 15
+CAI   210314531000BK001556                      LIQ GREAUME Janine                                   15              
+BQCM  150414401000BK001557     401F0155         CHQ VERGER ST MARTIN                              46.13              
+BQCM  150414512100BK001557                      CHQ VERGER ST MARTIN                                            46.13
+BQCM  150414401000BK001558     401F0230         CHQ JANROSSOT Albert                                288              
+BQCM  150414512100BK001558                      CHQ JANROSSOT Albert                                              288
+BQCM  150414401000BK001559     401F0222         CHQ ASSOCIATION LE TERREAU                          310              
+BQCM  150414512100BK001559                      CHQ ASSOCIATION LE TERREAU                                        310
+BQCM  150414401000BK001560     401F0236         CHQ ERDF                                         159.12              
+BQCM  150414512100BK001560                      CHQ ERDF                                                       159.12
+CAI   150414401000BK001561     401F0129         LIQ MERLIN SA                                     14.08              
+CAI   150414531000BK001561                      LIQ MERLIN SA                                                   14.08
+BQCM  150414401000BK001562     401F0149         CHQ S.I.E.R                                      257.42              
+BQCM  150414512100BK001562                      CHQ S.I.E.R                                                    257.42
+CAI   080414401000BK001563     401F0248         LIQ FELIX Horticulteur                               26              
+CAI   080414531000BK001563                      LIQ FELIX Horticulteur                                             26
+BQCM  150414411000BK001564     411C0119         PRE DAUDIN Agnes                                                   49
+BQCM  150414512100BK001564                      PRE DAUDIN Agnes                                     49              
+BQCM  160414411000BK001565     411C0130         PRE DEROBERT Jean-Marc                                             30
+BQCM  160414512100BK001565                      PRE DEROBERT Jean-Marc                               30              
+BQCM  250414411000BK001567     411C0656         PRE TOTH Philippe                                                  30
+BQCM  250414512100BK001567                      PRE TOTH Philippe                                    30              
+BQCM  160414411000BK001568     411C0023         PRE BARRAQUE-CHAUVET                                               49
+BQCM  160414512100BK001568                      PRE BARRAQUE-CHAUVET                                 49              
+BQCM  160414411000BK001569     411C0062         PRE BOGLIETTI Patricia                                             49
+BQCM  160414512100BK001569                      PRE BOGLIETTI Patricia                               49              
+BQCM  160414411000BK001570     411C0309         PRE ETIENNE Jacques                                                49
+BQCM  160414512100BK001570                      PRE ETIENNE Jacques                                  49              
+BQCM  160414411000BK001571     411C0336         PRE LEMOINE David                                                  30
+BQCM  160414512100BK001571                      PRE LEMOINE David                                    30              
+BQCM  160414411000BK001572     411C0351         PRE LEPAGE Dominique                                               30
+BQCM  160414512100BK001572                      PRE LEPAGE Dominique                                 30              
+BQCM  160414411000BK001573     411C0514         PRE PRE Francoise                                                  30
+BQCM  160414512100BK001573                      PRE PRE Francoise                                    30              
+BQCM  160414411000BK001574     411C0715         PRE VIALLE  Viviane                                                30
+BQCM  160414512100BK001574                      PRE VIALLE  Viviane                                  30              
+BQCM  160414411000BK001575     411C0029         PRE BERTIN Jean-Jacques                                            30
+BQCM  160414512100BK001575                      PRE BERTIN Jean-Jacques                              30              
+BQCM  160414411000BK001576     411C0044         PRE BLOUIN Michel                                                  49
+BQCM  160414512100BK001576                      PRE BLOUIN Michel                                    49              
+BQCM  160414411000BK001577     411C0043         PRE BRUN-BERTHET Denis                                             30
+BQCM  160414512100BK001577                      PRE BRUN-BERTHET Denis                               30              
+BQCM  160414411000BK001578     411C0091         PRE CHOVIN Roland                                                  49
+BQCM  160414512100BK001578                      PRE CHOVIN Roland                                    49              
+BQCM  160414411000BK001579     411C0799         PRE DUBOIS Caroline                                                49
+BQCM  160414512100BK001579                      PRE DUBOIS Caroline                                  49              
+BQCM  160414411000BK001580     411C0166         PRE ESTEVE Claire                                                  30
+BQCM  160414512100BK001580                      PRE ESTEVE Claire                                    30              
+BQCM  160414411000BK001581     411C0250         PRE GINIEYS Anne-Marie                                             49
+BQCM  160414512100BK001581                      PRE GINIEYS Anne-Marie                               49              
+BQCM  160414411000BK001582     411C0376         PRE MAZIN Jean-Pierre                                              30
+BQCM  160414512100BK001582                      PRE MAZIN Jean-Pierre                                30              
+BQCM  160414411000BK001583     411C0500         PRE PLANTIER Noel                                                  30
+BQCM  160414512100BK001583                      PRE PLANTIER Noel                                    30              
+BQCM  160414411000BK001584     411C0581         PRE RIVOIRE Jean-Yves                                              30
+BQCM  160414512100BK001584                      PRE RIVOIRE Jean-Yves                                30              
+BQCM  160414411000BK001585     411C0722         PRE VILLARD Laurette                                               49
+BQCM  160414512100BK001585                      PRE VILLARD Laurette                                 49              
+CAI   060414411000BK001586     411C1156         LIQ CANTINE                                                       110
+CAI   060414531000BK001586                      LIQ CANTINE                                         110              
+BQCM  160414411000BK001587     411C0947         CHQ GAILLARD Celine                                                40
+BQCM  160414512100BK001587                      CHQ GAILLARD Celine                                  40              
+BQCM  160414411000BK001588     411C0037         CHQ BEURET Christine                                               49
+BQCM  160414512100BK001588                      CHQ BEURET Christine                                 49              
+BQCM  160414411000BK001589     411C0020         CHQ BADEL Michel                                                   12
+BQCM  160414512100BK001589                      CHQ BADEL Michel                                     12              
+BQCM  160414411000BK001590     411C1082         CHQ BELLIER Cedric/LEVRAT Sylvie                                   12
+BQCM  160414512100BK001590                      CHQ BELLIER Cedric/LEVRAT Sylvie                     12              
+BQCM  160414411000BK001591     411C0607         CHQ SOULAS Therese                                                 30
+BQCM  160414512100BK001591                      CHQ SOULAS Therese                                   30              
+BQCM  160414411000BK001592     411C0939         CHQ VILLON Marie                                                   30
+BQCM  160414512100BK001592                      CHQ VILLON Marie                                     30              
+CAI   160414411000BK001593     411C1157         LIQ ENCARNACAO Joao                                                18
+CAI   160414531000BK001593                      LIQ ENCARNACAO Joao                                  18              
+BQCM  270214411000BK001594     411C0947         CHQ GAILLARD Celine                                                30
+BQCM  270214512100BK001594                      CHQ GAILLARD Celine                                  30              
+BQCCOO200314411000BK001596     411C0944         VIR MIELLOUX Helene                                                40
+BQCCOO200314512300BK001596                      VIR MIELLOUX Helene                                  40              
+BQCCOO310314401000BK001597     401F0250         PRE CREDIT COOPERATIF                                26              
+BQCCOO310314512300BK001597                      PRE CREDIT COOPERATIF                                              26
+BQCM  160414411000BK001598     411C1159         CHQ SALHI Rachida                                                  18
+BQCM  160414512100BK001598                      CHQ SALHI Rachida                                    18              
+BQCM  170414411000BK001599     411C0654         CHQ THOUMELIN Francoise                                            67
+BQCM  170414512100BK001599                      CHQ THOUMELIN Francoise                              67              
+BQCM  170414401000BK001600     401F0148         PRE SIEH                                          94.88              
+BQCM  170414512100BK001600                      PRE SIEH                                                        94.88
+BQCM  170414401000BK001601     401F0148         PRE SIEH                                          17.66              
+BQCM  170414512100BK001601                      PRE SIEH                                                        17.66
+BQCM  170414411000BK001602     411C1081         CHQ BOUSSIQUET Maitena                                             49
+BQCM  170414512100BK001602                      CHQ BOUSSIQUET Maitena                               49              
+BQCM  170414411000BK001603     411C0070         CHQ BADUFLE Guillaume/JOO                                          49
+BQCM  170414512100BK001603                      CHQ BADUFLE Guillaume/JOO                            49              
+BQCM  170414411000BK001604     411C1118         CHQ MULLET Rene                                                   558
+BQCM  170414512100BK001604                      CHQ MULLET Rene                                     558              
+BQCM  170414411000BK001605     411C0396         CHQ TRAVERSIER Sandrine                                            30
+BQCM  170414512100BK001605                      CHQ TRAVERSIER Sandrine                              30              
+BQCM  170414411000BK001606     411C0454         CHQ DUMAS Jean-Marc                                                49
+BQCM  170414512100BK001606                      CHQ DUMAS Jean-Marc                                  49              
+BQCM  170414411000BK001607     411C0489         CHQ POYET-CORNET Soizic                                            90
+BQCM  170414512100BK001607                      CHQ POYET-CORNET Soizic                              90              
+BQCM  170414411000BK001608     411C0608         CHQ SOLAL Laurence                                                 30
+BQCM  170414512100BK001608                      CHQ SOLAL Laurence                                   30              
+CAI   170414401000BK001609     401F0075         LIQ BOULANGERIE                                   43.26              
+CAI   170414531000BK001609                      LIQ BOULANGERIE                                                 43.26
+BQCM  170414401000BK001610     401F0215         CHQ CHAMBOST                                     328.27              
+BQCM  170414512100BK001610                      CHQ CHAMBOST                                                   328.27
+BQCM  160414401000BK001611     401F0084         CHQ CENTRE LECLERC                               184.91              
+BQCM  160414512100BK001611                      CHQ CENTRE LECLERC                                             184.91
+BQCM  170414401000BK001612     401F0219         CHQ LOXAM                                        106.68              
+BQCM  170414512100BK001612                      CHQ LOXAM                                                      106.68
+BQCM  170414401000BK001613     401F0153         CHQ VALSOLEIL                                      76.5              
+BQCM  170414512100BK001613                      CHQ VALSOLEIL                                                    76.5
+CAI   170414401000BK001615     401F0106         LIQ ENTREPOT DU BRICOLAGE                           3.3              
+CAI   170414531000BK001615                      LIQ ENTREPOT DU BRICOLAGE                                         3.3
+BQCM  180414411000BK001616     411C0235         CHQ COTLEUR Evelyne                                                49
+BQCM  180414512100BK001616                      CHQ COTLEUR Evelyne                                  49              
+BQCM  180414411000BK001617     411C0359         CHQ LEONCINI Jean-Pierre                                         8.29
+BQCM  180414512100BK001617                      CHQ LEONCINI Jean-Pierre                           8.29              
+BQCM  180414411000BK001618     411C0033         CHQ BRUNET Philippe                                                22
+BQCM  180414512100BK001618                      CHQ BRUNET Philippe                                  22              
+BQCM  180414411000BK001619     411C0994         CHQ TRESSOL Frederic                                            12.12
+BQCM  180414512100BK001619                      CHQ TRESSOL Frederic                              12.12              
+BQCM  180414411000BK001620     411C1154         CHQ JOUSSE Aurelien                                               303
+BQCM  180414512100BK001620                      CHQ JOUSSE Aurelien                                 303              
+BQCM  220414411000BK001622     411C0061         CHQ BIARRAT Ludovic                                                49
+BQCM  220414512100BK001622                      CHQ BIARRAT Ludovic                                  49              
+BQCM  220414411000BK001623     411C0520         CHQ PHILIBERT Marie-Noelle                                         30
+BQCM  220414512100BK001623                      CHQ PHILIBERT Marie-Noelle                           30              
+BQCM  220414411000BK001624     411C1086         CHQ AMICALE LAIQUE BOURG-DE-PEAGE                                  18
+BQCM  220414512100BK001624                      CHQ AMICALE LAIQUE BOURG-DE-PEAGE                    18              
+CAI   180414411000BK001625     411C1115         LIQ CLIENTS MARCHE                                             145.57
+CAI   180414531000BK001625                      LIQ CLIENTS MARCHE                               145.57              
+BQCM  220414411000BK001626     411C1126         CHQ TOUSSAINT Simone                                               50
+BQCM  220414512100BK001626                      CHQ TOUSSAINT Simone                                 50              
+BQCM  080414401000BK001627     401F0175         PRE ASSOCIATION MODE D'EMPLOI                      4.07              
+BQCM  080414512100BK001627                      PRE ASSOCIATION MODE D'EMPLOI                                    4.07
+BQCM  040414401000BK001628     401F0171         PRE CREDIT MUTUEL                                 47.05              
+BQCM  040414512100BK001628                      PRE CREDIT MUTUEL                                               47.05
+BQCM  110414401000BK001629     401F0114         PRE FREE                                              2              
+BQCM  110414512100BK001629                      PRE FREE                                                            2
+BQCM  100414401000BK001634     613100           PRE CLEMENT Robert                                  650              
+BQCM  100414512100BK001634                      PRE CLEMENT Robert                                                650
+CAI   220414401000BK001635     401F0106         LIQ ENTREPOT DU BRICOLAGE                          41.5              
+CAI   220414531000BK001635                      LIQ ENTREPOT DU BRICOLAGE                                        41.5
+BQCM  220414401000BK001636     401F0144         CHQ SAUREL                                        25.37              
+BQCM  220414512100BK001636                      CHQ SAUREL                                                      25.37
+BQCM  170414401000BK001637     401F0144         CHQ SAUREL                                        34.16              
+BQCM  170414512100BK001637                      CHQ SAUREL                                                      34.16
+BQCM  220414401000BK001638     401F0153         CHQ VALSOLEIL                                    381.77              
+BQCM  220414512100BK001638                      CHQ VALSOLEIL                                                  381.77
+BQCM  220414401000BK001639     401F0153         CHQ VALSOLEIL                                     64.79              
+BQCM  220414512100BK001639                      CHQ VALSOLEIL                                                   64.79
+BQCM  220414401000BK001640     401F0106         CHQ ENTREPOT DU BRICOLAGE                         52.25              
+BQCM  220414512100BK001640                      CHQ ENTREPOT DU BRICOLAGE                                       52.25
+BQCM  180414401000BK001641     401F0167         CHQ LA POSTE                                      68.52              
+BQCM  180414512100BK001641                      CHQ LA POSTE                                                    68.52
+BQCM  170414401000BK001642     401F0253         CHQ TRESOR PUBLIC                                   323              
+BQCM  170414512100BK001642                      CHQ TRESOR PUBLIC                                                 323
+CAI   170414401000BK001643     401F0253         LIQ TRESOR PUBLIC                                                 2.5
+CAI   170414531000BK001643                      LIQ TRESOR PUBLIC                                   2.5              
+CAI   170414401000BK001644     401F0117         LIQ GARAGE DU NORD                                 30.1              
+CAI   170414531000BK001644                      LIQ GARAGE DU NORD                                               30.1
+CAI   220414401000BK001645     401F0117         LIQ GARAGE DU NORD                                24.07              
+CAI   220414531000BK001645                      LIQ GARAGE DU NORD                                              24.07
+BQCM  150414401000BK001646     401F0254         CHQ POULAIN Jason                                  2000              
+BQCM  150414512100BK001646                      CHQ POULAIN Jason                                                2000
+BQCM  100414401000BK001647     401F0242         CHQ TESTE Beatrice                               114.09              
+BQCM  100414512100BK001647                      CHQ TESTE Beatrice                                             114.09
+BQCM  100414401000BK001648     401F0243         CHQ ROMIGUIER Mathilde                            40.48              
+BQCM  100414512100BK001648                      CHQ ROMIGUIER Mathilde                                          40.48
+CAI   230414401000BK001649     401F0153         LIQ VALSOLEIL                                     14.84              
+CAI   230414531000BK001649                      LIQ VALSOLEIL                                                   14.84
+BQCM  230414401000BK001650     401F0144         CHQ SAUREL                                       239.45              
+BQCM  230414512100BK001650                      CHQ SAUREL                                                     239.45
+CAI   270314401000BK001651     401F0255         LIQ AUTO PIECES MONTELIMAR                           50              
+CAI   270314531000BK001651                      LIQ AUTO PIECES MONTELIMAR                                         50
+CAI   040314401000BK001652     401F0106         LIQ ENTREPOT DU BRICOLAGE                           4.1              
+CAI   040314531000BK001652                      LIQ ENTREPOT DU BRICOLAGE                                         4.1
+CAI   210214401000BK001653     401F0094         LIQ COMPTOIR PLUS                                 14.26              
+CAI   210214531000BK001653                      LIQ COMPTOIR PLUS                                               14.26
+CAI   280314401000BK001654     401F0256         LIQ AUX PASSIFLORES                                19.5              
+CAI   280314531000BK001654                      LIQ AUX PASSIFLORES                                              19.5
+CAI   190314401000BK001655     401F0257         LIQ CARREFOUR                                      3.33              
+CAI   190314531000BK001655                      LIQ CARREFOUR                                                    3.33
+CAI   080414401000BK001656     401F0257         LIQ CARREFOUR                                     11.29              
+CAI   080414531000BK001656                      LIQ CARREFOUR                                                   11.29
+CAI   150414401000BK001657     401F0209         LIQ SNCF                                            3.8              
+CAI   150414531000BK001657                      LIQ SNCF                                                          3.8
+CAI   010414401000BK001658     401F0185         LIQ FOREST Barbara                                 22.5              
+CAI   010414531000BK001658                      LIQ FOREST Barbara                                               22.5
+CAI   010414401000BK001659     401F0042         LIQ RIGOLLIER Christophe                           25.1              
+CAI   010414531000BK001659                      LIQ RIGOLLIER Christophe                                         25.1
+CAI   010414401000BK001660     401F0186         LIQ DETREZ Genevieve                               22.5              
+CAI   010414531000BK001660                      LIQ DETREZ Genevieve                                             22.5
+CAI   220314401000BK001661     401F0258         LIQ TABAC PRESSE                                     42              
+CAI   220314531000BK001661                      LIQ TABAC PRESSE                                                   42
+BQCM  250414411000BK001665     411C0137         CHQ DESPLANQUE Anne                                                18
+BQCM  250414512100BK001665                      CHQ DESPLANQUE Anne                                  18              
+BQCM  250414411000BK001668     411C1119         CHQ ECOLE PARNANS                                                 318
+BQCM  250414512100BK001668                      CHQ ECOLE PARNANS                                   318              
+BQCM  250414411000BK001669     411C0947         CHQ GAILLARD Celine                                                40
+BQCM  250414512100BK001669                      CHQ GAILLARD Celine                                  40              
+BQCM  250414411000BK001670     411C0536         CHQ PROD'HOMME Serge                                               49
+BQCM  250414512100BK001670                      CHQ PROD'HOMME Serge                                 49              
+BQCM  250414411000BK001671     411C0320         CHQ KRECKELBERGH Lise/RIGUET                                       30
+BQCM  250414512100BK001671                      CHQ KRECKELBERGH Lise/RIGUET                         30              
+BQCM  250414411000BK001672     411C0546         CHQ ROBERT Martine                                                 49
+BQCM  250414512100BK001672                      CHQ ROBERT Martine                                   49              
+BQCM  250414411000BK001673     411C0994         CHQ TRESSOL Frederic                                            10.55
+BQCM  250414512100BK001673                      CHQ TRESSOL Frederic                              10.55              
+BQCM  250414411000BK001674     411C0551         CHQ REYSSET Jacques                                             12.58
+BQCM  250414512100BK001674                      CHQ REYSSET Jacques                               12.58              
+BQCM  250414411000BK001675     411C1037         CHQ RIVOIRE Joseph                                              13.41
+BQCM  250414512100BK001675                      CHQ RIVOIRE Joseph                                13.41              
+BQCM  250414411000BK001676     411C0026         CHQ BOUCHARD Denis                                               7.95
+BQCM  250414512100BK001676                      CHQ BOUCHARD Denis                                 7.95              
+CAI   250414411000BK001677     411C0126         LIQ DELPECH Raphael                                               109
+CAI   250414531000BK001677                      LIQ DELPECH Raphael                                 109              
+BQCM  280414411000BK001678     411C0031         CHQ BEAREZ Brigitte                                               378
+BQCM  280414512100BK001678                      CHQ BEAREZ Brigitte                                 378              
+BQCM  280414411000BK001679     411C1136         CHQ DEVOLVENT Roland                                              468
+BQCM  280414512100BK001679                      CHQ DEVOLVENT Roland                                468              
+BQCM  290414411000BK001680     411C0724         CHQ VERSMEE MOELLO Pascale                                      682.5
+BQCM  290414512100BK001680                      CHQ VERSMEE MOELLO Pascale                        682.5              
+CAI   300414411000BK001686     411C1160         LIQ CLIENTS PLANTS                                                150
+CAI   300414531000BK001686                      LIQ CLIENTS PLANTS                                  150              
