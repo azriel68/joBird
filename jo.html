@@ -37,11 +37,12 @@
       this.setup = function() {
 
         var anim = new jaws.Animation({sprite_sheet: "bird.png", frame_duration: 100, frame_size: [62,50] });
+        
 
-        player = new jaws.Sprite({x:100, y:50, scale: 1, anchor: "bottom_center"})
+        player = new jaws.Sprite({x:100, y:50, scale: 2, anchor: "bottom_center"})
         player.anim_default = anim.slice(0,3)
-        player.anim_up = anim.slice(3,5)
-        player.anim_down = anim.slice(5,8)
+        player.anim_up = anim.slice(5,5)
+        player.anim_down = anim.slice(5,5)
         player.anim_left = anim.slice(10,12)
         player.anim_right = anim.slice(12,14)
       
@@ -63,9 +64,14 @@
 
         if(jaws.pressed("up"))    { 
 			player.y -= speed; player.setImage( player.anim_up.next() ) ;
+			player.angle=-10;
+			
 		    mySound.play();
 		}
-        else { player.y += speed; player.setImage( player.anim_down.next() ); }
+        else { 
+        	player.y += speed; player.setImage( player.anim_down.next() );
+       		player.angle=10; 	
+        }
 
 		this.forceInsideCanvas(player);
 /*
