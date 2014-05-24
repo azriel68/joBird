@@ -8,7 +8,7 @@
   	<script type="text/javascript">
 
 	var stage, w, h, loader;
-	var sky, grant, ground, hill, hill2;
+	var sky, grant, ground, hill, hill2,stone;
 	var TBird=[];
 	var soundSpin;
 
@@ -29,34 +29,46 @@
 			{src:"assets/ground.png", id:"ground"},
 			{src:"assets/parallaxHill1.png", id:"hill"},
 			{src:"assets/parallaxHill2.png", id:"hill2"},
-			{src:"assets/bird.png", id:"bird"}
+			{src:"assets/bird.png", id:"bird"},
+			{src:"assets/stone.png", id:"stone"}
 		];
 
 		loader = new createjs.LoadQueue(false);
 		loader.addEventListener("complete", handleComplete);
 		loader.loadManifest(manifest);
 		
-		createjs.Sound.alternateExtensions = [ "wav"];
+		/*createjs.Sound.alternateExtensions = [ "wav"];
 		createjs.Sound.addEventListener("fileload", createjs.proxy(this.loadHandler, this));
 		createjs.Sound.registerSound("assets/spin.mp3", "sound");
-		
+		*/
 	}
 	
 	function flyingbird() {
 		
-		var dataBird = new createjs.SpriteSheet({
-			"images": [loader.getResult("bird")],
-			"frames": {"regX": 0, "height": 50, "count": 8, "regY": 0, "width": 62.5},
-			"animations": {"fly": [0, 4, "fly", .5] }
-		});
-		var bird = new createjs.Sprite(dataBird, "fly");
+		bImg = loader.getResult("bird");
 		
+		vitesse=0.2 + Math.random();
+		
+		var dataBird = new createjs.SpriteSheet({
+			"images": [bImg],
+			"frames": {"regX": 0, "height": 50, "count": 8, "regY": 0, "width": 62.5},
+			"animations": {"fly": [0, 4, "fly", vitesse] },
+		});
+		
+		var bird = new createjs.Sprite(dataBird, "fly");
 		scale=Math.random() * 10;
 			
-		bird.setTransform(stage.canvas.width+100, Math.random() * 300, -scale,scale);
+		bird.setTransform(stage.canvas.width+(1000 * Math.random()), Math.random() * 20 * scale, -scale,scale);
 		
 		bird.framerate = 30;
+/*
+		bird.filters = [
+				new createjs.ColorFilter(0,0,0,1, 0,0,255,0)		     
+		];
 
+		bird.cache();
+//		bird.shadow = new createjs.Shadow("#000000", 5 * Math.abs(bird.scaleX), 5 * Math.abs(bird.scaleX), 10);
+*/
 		stage.addChild(bird);
 
 		return bird;
@@ -99,13 +111,16 @@
 		
 		stage.addChild( grant);
 		
-		for(i=0;i<10;i++) {
+		for(i=0;i<4;i++) {
 			
 			TBird.push(flyingbird());
 			
 		}
 
-
+		stone = new createjs.Bitmap(loader.getResult("stone"));
+		stone.setTransform(w + 100,h-stone.image.height-groundImg.height + 5, 1, 1);
+		stage.addChild( stone);
+		
 		
 	}
 
@@ -136,7 +151,7 @@
 			if(bird.x <0) {
 				scale=Math.random() * 10;
 				
-				bird.setTransform(stage.canvas.width+100*Math.abs(bird.scaleX), 0, -scale,scale);
+				bird.setTransform(stage.canvas.width+(1000*Math.abs(bird.scaleX)*Math.random()), 0, -scale,scale);
 				
 			}
 			else {
@@ -146,6 +161,10 @@
 			
 			
 		}
+	
+	
+		stone.x = (stone.x - deltaS *200);
+		if (stone.x + stone.image.width*stone.scaleX <= 0) { stone.x = w+50; }
 	
 	
 		stage.update(event);
@@ -159,7 +178,7 @@
 	<div id="loader" class="loader"></div>
 
 	<div class="canvasHolder">
-		<canvas id="testCanvas" width="960" height="400"></canvas>
+		<canvas id="testCanvas" width="960" height="400" style="image-rendering: optimize-contrast;"></canvas>
 	</div>
 
 </body>
