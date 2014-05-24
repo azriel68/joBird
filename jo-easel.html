@@ -8,7 +8,9 @@
   	<script type="text/javascript">
 
 	var stage, w, h, loader;
-	var sky, grant, ground, hill, hill2, bird;
+	var sky, grant, ground, hill, hill2;
+	var TBird=[];
+	var soundSpin;
 
 	function init() {
 		if (window.top != window) {
@@ -33,7 +35,33 @@
 		loader = new createjs.LoadQueue(false);
 		loader.addEventListener("complete", handleComplete);
 		loader.loadManifest(manifest);
+		
+		createjs.Sound.alternateExtensions = [ "wav"];
+		createjs.Sound.addEventListener("fileload", createjs.proxy(this.loadHandler, this));
+		createjs.Sound.registerSound("assets/spin.mp3", "sound");
+		
 	}
+	
+	function flyingbird() {
+		
+		var dataBird = new createjs.SpriteSheet({
+			"images": [loader.getResult("bird")],
+			"frames": {"regX": 0, "height": 50, "count": 8, "regY": 0, "width": 62.5},
+			"animations": {"fly": [0, 4, "fly", .5] }
+		});
+		var bird = new createjs.Sprite(dataBird, "fly");
+		
+		scale=Math.random() * 10;
+			
+		bird.setTransform(stage.canvas.width+100, Math.random() * 300, -scale,scale);
+		
+		bird.framerate = 30;
+
+		stage.addChild(bird);
+
+		return bird;
+	}
+
 
 	function handleComplete() {
 		document.getElementById("loader").className = "";
@@ -63,20 +91,22 @@
 		grant.setTransform(90, 180, 0.5, 0.5);
 		grant.framerate = 30;
 
-		var dataBird = new createjs.SpriteSheet({
-			"images": [loader.getResult("bird")],
-			"frames": {"regX": 0, "height": 50, "count": 8, "regY": 0, "width": 62.5},
-			"animations": {"fly": [0, 4, "fly", .5] }
-		});
-		bird = new createjs.Sprite(dataBird, "fly");
-		bird.setTransform(stage.canvas.width+100, 0, -1,1);
-		bird.framerate = 30;
-
-		stage.addChild(sky, hill, hill2, ground, grant, bird);
+		stage.addChild(sky, hill, hill2, ground);
 		stage.addEventListener("stagemousedown", handleJumpStart);
 
 		createjs.Ticker.timingMode = createjs.Ticker.RAF;
 		createjs.Ticker.addEventListener("tick", tick);
+		
+		stage.addChild( grant);
+		
+		for(i=0;i<10;i++) {
+			
+			TBird.push(flyingbird());
+			
+		}
+
+
+		
 	}
 
 	function handleJumpStart() {
@@ -96,18 +126,27 @@
 		hill2.x = (hill2.x - deltaS*45);
 		if (hill2.x + hill2.image.width*hill2.scaleX <= 0) { hill2.x = w; }
 	
-		var birdW = bird.getBounds().width*bird.scaleX;
-		
-		if(bird.x <0) {
-			scale=Math.random() * 10;
+		for(x in TBird) {
+			bird = TBird[x];
 			
-			bird.setTransform(stage.canvas.width+100, 0, -scale,scale);
+			var birdW = bird.getBounds().width*bird.scaleX;
+			
+			//if(bird.currentFrame==4) createjs.Sound.play("sound"); 
+			
+			if(bird.x <0) {
+				scale=Math.random() * 10;
+				
+				bird.setTransform(stage.canvas.width+100*Math.abs(bird.scaleX), 0, -scale,scale);
+				
+			}
+			else {
+				bird.x = bird.x - (2*Math.abs(bird.scaleX));	
+			}
+			
+			
 			
 		}
-		else {
-			bird.x = bird.x + (2*bird.scaleX);	
-		}
-		
+	
 	
 		stage.update(event);
 	}
