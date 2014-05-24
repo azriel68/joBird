@@ -2,13 +2,13 @@
 <!DOCTYPE html> 
 <html>
   <head>
-    <script src=" http://code.createjs.com/createjs-2013.12.12.min.js"></script>
+    <script src="createjs-2013.12.12.min.js"></script>
      <link type="text/css" rel="stylesheet" href="demoStyles.css" />
     <title>JoBird</title>
   	<script type="text/javascript">
 
 	var stage, w, h, loader;
-	var sky, grant, ground, hill, hill2;
+	var sky, grant, ground, hill, hill2, bird;
 
 	function init() {
 		if (window.top != window) {
@@ -60,20 +60,19 @@
 			"animations": {"run": [0, 25, "run", 1], "jump": [26, 63, "run",1.5]}
 		});
 		grant = new createjs.Sprite(data, "run");
-		grant.setTransform(-200, 90, 0.8, 0.8);
+		grant.setTransform(90, 180, 0.5, 0.5);
 		grant.framerate = 30;
 
-		/*var data = new createjs.SpriteSheet({
+		var dataBird = new createjs.SpriteSheet({
 			"images": [loader.getResult("bird")],
-			"frames": {"regX": 0, "height": 292, "count": 64, "regY": 0, "width": 165},
-			// define two animations, run (loops, 1.5x speed) and jump (returns to run):
-			"animations": {"run": [0, 25, "run", 1], "jump": [26, 63, "run",1.5]}
+			"frames": {"regX": 0, "height": 50, "count": 8, "regY": 0, "width": 62.5},
+			"animations": {"fly": [0, 4, "fly", .5] }
 		});
-		grant = new createjs.Sprite(data, "run");
-		grant.setTransform(-200, -200, 1.8, 1.8);
-		grant.framerate = 30;
-*/
-		stage.addChild(sky, hill, hill2, ground, grant);
+		bird = new createjs.Sprite(dataBird, "fly");
+		bird.setTransform(stage.canvas.width+100, 0, -1,1);
+		bird.framerate = 30;
+
+		stage.addChild(sky, hill, hill2, ground, grant, bird);
 		stage.addEventListener("stagemousedown", handleJumpStart);
 
 		createjs.Ticker.timingMode = createjs.Ticker.RAF;
@@ -88,14 +87,27 @@
 		var deltaS = event.delta/1000;
 		var position = grant.x+150*deltaS;
 		
-		var grantW = grant.getBounds().width*grant.scaleX;
+		/*var grantW = grant.getBounds().width*grant.scaleX;
 		grant.x = (position >= w) ? -grantW : position;
-
+*/
 		ground.x = (ground.x-deltaS*200) % ground.tileW;
 		hill.x = (hill.x - deltaS*30);
 		if (hill.x + hill.image.width*hill.scaleX <= 0) { hill.x = w; }
 		hill2.x = (hill2.x - deltaS*45);
 		if (hill2.x + hill2.image.width*hill2.scaleX <= 0) { hill2.x = w; }
+	
+		var birdW = bird.getBounds().width*bird.scaleX;
+		
+		if(bird.x <0) {
+			scale=Math.random() * 10;
+			
+			bird.setTransform(stage.canvas.width+100, 0, -scale,scale);
+			
+		}
+		else {
+			bird.x = bird.x + (2*bird.scaleX);	
+		}
+		
 	
 		stage.update(event);
 	}
